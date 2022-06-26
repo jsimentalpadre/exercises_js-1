@@ -6,7 +6,7 @@ while(isNaN(num2)){
     var num2 = parseInt(prompt("Ingresar un segundo numero: "));
 }
 
-    
+    // Que pasa si capturan un numero = 0 , que pasaria con la division
     
 var suma = num1 + num2;
 var restar = num1 - num2;
